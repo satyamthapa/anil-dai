@@ -1,0 +1,256 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.black{
+ 
+    color: rgb(255, 255, 255);
+}
+.btnn{
+    text-decoration:none;
+}
+.textbox{
+    margin-top: calc(20px + 13vw);
+
+
+}
+h1{
+    margin-left: calc(222px + 14vw);
+    font-size: 99px;
+    color: #1877f2;
+    font-family: sans-serif;
+}
+.mm{
+
+    margin-left: calc(286px + 17vw);
+
+}
+h2{
+   
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: calc(257px + 17vw);
+}
+.container{
+    
+    width: 400px;
+    height: 350px;
+    margin-left: calc(188px + 17vw);
+    float: center;
+    border-radius: 12px;
+    background-color: white;
+    width: 466px;
+    height: 355px;  
+   text-align: center;
+   
+    
+}
+.form{
+    float: center;
+   background-color: white;
+    margin-top: -12px;
+    padding: 20px;
+}
+.form input{
+    margin-top: 10px;
+margin-left: -10px;
+border-radius: 13px;
+margin-right: -10px;
+    padding:17px;
+    
+    width: 400px;
+    height: 30px
+}
+button{
+    margin-top: 15px;
+    background-color:#1877f2 ;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+}
+p{
+    background-color: white;
+    font-size: 16px;
+    color: #1877f2;
+    margin-top: 10px;
+}
+p a{
+    color: #1877f2;
+    background-color: white;
+}
+.btn {
+    padding: 7px;
+    margin-top: 15px;
+   background-color: white;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+.btn button{
+    background-color:#18c524 ;
+    color: rgb(245, 245, 245);
+    
+
+   
+}
+@media only screen and (max-width: 600px) {
+   h1 {
+    margin-left: 153px;
+    font-size: 52px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .container {
+        margin-left: 77px;
+        font-size: 9px;
+        width: 253px;
+    
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    
+        .form input{
+            margin-top: 14px;
+            margin-left: -5px;
+            border-radius: 10px;
+            margin-right: -10px;
+            padding: 23px;
+            width: 313px;
+    
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    h2 {
+        margin-left: 122px;
+    font-size: 20px;
+    line-height: 19px;
+}
+     }
+   
+   @media only screen and (max-width: 600px) {
+    .mm {
+        margin-left: 128px;
+    font-size: 22px;;
+     }
+   }
+    @media only screen and (max-width: 600px) {
+        .textbox{
+            margin-top: 74px;}
+       }
+    
+ 
+         @media only screen and (max-width: 600px) {
+            .form {
+               width: 145%;
+             }}
+
+
+
+
+
+
+
+
+
+
+            
+             
+             @media only screen and (max-width: 411px) {
+                h1 {
+                    margin-left: 125px;
+                    font-size: 62px;
+                 }
+               }
+               @media only screen and (max-width: 411px) {
+                 .container {
+                     margin-left: 66px;
+                     font-size: 9px;
+                     width: 253px;
+                 
+                 }
+               }
+               @media only screen and (max-width: 411px) {
+                 
+                     .form input{
+                         margin-top: 14px;
+                         margin-left: -5px;
+                         border-radius: 10px;
+                         margin-right: -10px;
+                         padding: 23px;
+                         width: 313px;
+                 
+                 }
+               }
+
+               @media only screen and (max-width: 411px) {
+                .textbox{
+                    margin-top: 218px;}
+               }
+               @media only screen and (max-width: 411px) {
+                 h2 {
+                    margin-left: 107px;
+                    font-size: 20px;
+                    line-height: 26px;
+             }
+                  }
+                
+                @media only screen and (max-width: 411px) {
+                 .mm {
+                     margin-left: 128px;
+                 font-size: 22px;;
+                  }
+                }
+                 @media only screen and (max-width: 400px) {
+                     .textbox{
+                        margin-top: 122px;}
+                    }
+                 
+                
+             
+                      @media only screen and (max-width: 411px) {
+                         .form {
+                            width: 145%;
+                          }}
+             
+             
+
+
+
+
+
+
+
+                          @media only screen and (max-width: 375px) {
+                            .textbox{
+                               margin-top: 237px;}
+                           }
+                           @media only screen and (max-width: 375px){
+                            h1 {
+                                margin-left: 94px;
+                                font-size: 79px;
+                            }
+                             }
+                           
+                           @media only screen and (max-width: 375px) {
+                            .container {
+                                margin-left: 57px;
+                                font-size: 41px;
+                                width: 266px;
+                           }
+                        }
+
+                        @media only screen and (max-width: 375px) {
+                            h2 {
+                               margin-left: 107px;
+                               font-size: 20px;
+                               line-height: 26px;
+                        }
+                             }
+                           
