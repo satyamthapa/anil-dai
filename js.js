@@ -12,7 +12,7 @@ var message = $('#Message').val();
     //console.log(name, phone, email, message);
 
     Email.send({
-SecureToken:"fbf31702-bb7f-4a4e-9c1c-4ccf17ee777f",
+SecureToken:"c677431a-cf61-4783-bde8-2a84c3cf1ed8",
         To: 'optimalweb09@gmail.com',
         From: "demooptimalweb@gmail.com",
         Subject: "New message on contact from "+name,
