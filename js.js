@@ -14,7 +14,7 @@ var message = $('#Message').val();
     Email.send({
 SecureToken:"c677431a-cf61-4783-bde8-2a84c3cf1ed8",
         To: 'optimalweb09@gmail.com',
-        From: "demooptimalweb@gmail.com",
+        From: "kamalathapa577@gmail.com",
         Subject: "New message on contact from "+name,
         Body: Body
     }).then(
